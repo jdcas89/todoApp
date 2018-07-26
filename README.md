@@ -22,10 +22,17 @@ npm install
 ## Running the app locally
 
 
+```
+npm run start
+```
 
 
 ## Running the app on your device
 
+```
+npm run serve-ios
+npm run serve-android
 
+```
 
 
